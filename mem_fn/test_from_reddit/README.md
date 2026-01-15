@@ -1,0 +1,1 @@
+Take a look at: [https://www.reddit.com/r/cpp_questions/comments/1qcu8qm/passing_a_member_function_to_a_generic_standalone/](https://www.reddit.com/r/cpp_questions/comments/1qcu8qm/passing_a_member_function_to_a_generic_standalone/)
